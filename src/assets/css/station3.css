@@ -1,0 +1,22 @@
+.card{
+  background-color:#fff;
+  width:304px;
+  height:288px;
+  padding: 1%;
+}
+.card__title{
+  color:#282828;
+  font-size:14px;
+}
+.card__description{
+  color:#282828;
+  font-size:12px;
+}
+.card__img-top{
+  width:288px;
+  height:182px;
+  padding: 8px;
+}
+body{
+  background-color:#E5E5E5;
+}
